@@ -9,7 +9,11 @@ Michael Fuchs (2025)
 
 ## Goal
 
-（先空著）
+The paper studies how to count semi-simplicial tree-child networks.
+
+Instead of enumerating every network, it derives an asymptotic counting formula for a large number of leaves.
+
+The main mathematical tools are combinatorial counting and asymptotic analysis.
 
 ---
 
